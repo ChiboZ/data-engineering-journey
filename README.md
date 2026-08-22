@@ -4,7 +4,7 @@ Practice projects documenting my path from data cleaning fundamentals toward dat
 
 ## Projects
 
-### Workout Data Cleaning (`cleaning project.ipynb`)
+### Workout Data Cleaning (`workout-data-cleaning.ipynb`)
 
 A cleaning pass on a daily workout log (Duration, Date, Pulse, Maxpulse, Calories — 32 rows) with several real data-quality issues:
 
